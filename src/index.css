@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'IRANSansX-Light';
+    src: url(./fonts/IRANSansX-Light.woff) format('woff');
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'IRANSansX-Light';
+}
+
+
